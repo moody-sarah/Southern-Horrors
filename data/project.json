@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "moody-sarah",
+    "is_private": false,
+    "title": "Ida B. Wells",
+    "description": "\"Southern Horrors\" (1892), by Ida B. Wells, an essay in seven parts (including a letter from Frederick Douglass), using audio from Librivox.",
+    "language": "en",
+    "slug": "Southern-Horrors",
+    "creator": "moody-sarah",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-06-15T01:25:59.616Z",
+    "updated_at": "2026-06-15T01:25:59.616Z"
   }
 }
