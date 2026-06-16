@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Who was Ida B. Wells, and why is her essay \"Southern Horrors\" important?"
+        }
+      ]
+    }
+  ],
+  "title": "Intro",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "intro",
+  "created_at": "2026-06-16T18:15:48.843Z",
+  "created_by": "moody-sarah",
+  "updated_at": "2026-06-16T18:15:48.843Z",
+  "updated_by": "moody-sarah"
+}
