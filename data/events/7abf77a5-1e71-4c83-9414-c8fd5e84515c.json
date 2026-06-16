@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "945f6673-4f55-4df4-979f-48a6d156dae9": {
+      "label": "Chapter 3: The New Cry",
+      "is_offline": false,
+      "file_type": "audio",
+      "file_url": "https://www.archive.org/download/southern_horrors_1307_librivox/southernhorrors_3_wells.mp3",
+      "duration": 419
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Chapter 3: The New Cry",
+  "created_at": "2026-06-16T15:25:10.187Z",
+  "created_by": "moody-sarah",
+  "updated_at": "2026-06-16T15:25:10.187Z",
+  "updated_by": "moody-sarah"
+}
