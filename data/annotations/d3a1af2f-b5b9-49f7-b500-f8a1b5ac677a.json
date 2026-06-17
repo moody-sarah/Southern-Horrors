@@ -1,5 +1,380 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "introduction"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "introduction"
+        }
+      ],
+      "uuid": "b7cf6e86-94fd-492f-ba0c-6a5986f9cb2d"
+    },
+    {
+      "start_time": 29,
+      "end_time": 105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a white woman in Ohio makes a false accusation, leading to trial and conviction of a Black man; she later confessed to her lie, after the falsely convicted had served four years; her husband secured his release and divorced the wife"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "false accusation of rape"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "false conviction"
+        }
+      ],
+      "uuid": "4417f3dd-9dd1-493b-9ca4-c16a6c15103f"
+    },
+    {
+      "start_time": 106,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The accuser confesses that the relationship was consensual; the falsely convicted is freed, and the woman and husband divorce."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "confession of false accusation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "consensual interracial relationship"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "child/children"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "divorce"
+        }
+      ],
+      "uuid": "7c2b9911-e996-4904-8361-d82bcab84259"
+    },
+    {
+      "start_time": 164,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"outrage\" as \"rape\" (a period usage)"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f4218926-d9e8-45c4-a0fe-314e86625187"
+    },
+    {
+      "start_time": 215,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wells contrasts Northern with Southern cases of interracial sexual relationships"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "consensual interracial relationship"
+        }
+      ],
+      "uuid": "f38b48ae-afad-4ef8-84e3-f4b9aae3b262"
+    },
+    {
+      "start_time": 229,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a white Memphis woman runs away with her Black coachman"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "consensual interracial relationship"
+        }
+      ],
+      "uuid": "3ffbe3ac-ac06-4256-8b6a-0600f6c47aa2"
+    },
+    {
+      "start_time": 256,
+      "end_time": 278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a white girl's accusation leads to acquittal in Memphis"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "false accusation of rape"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "acquittal"
+        }
+      ],
+      "uuid": "3662ac98-2902-4621-9c4e-dc1c2715c191"
+    },
+    {
+      "start_time": 279,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a white Memphis woman asserts she is Black to continue cohabiting with a Black man"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "indictment"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "acquittal"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "consensual interracial relationship"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "class"
+        }
+      ],
+      "uuid": "2ac78cf8-8e2b-466d-91c2-7fc61018c15f"
+    },
+    {
+      "start_time": 309,
+      "end_time": 331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "a white Memphis woman stole and moved for her Black lover"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "consensual interracial relationship"
+        }
+      ],
+      "uuid": "5b27b84a-995c-4d7f-bcc0-aa7ce64c8889"
+    },
+    {
+      "start_time": 332,
+      "end_time": 437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "quotation from The Memphis Ledger on the Lillie Bailey story. \"Coon\" is a racial slur that likely abbreviates \"raccoon.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "consensual interracial relationship"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "child/children"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "quotation"
+        }
+      ],
+      "uuid": "763b6514-80f1-4826-97c8-6fad349a7b71"
+    },
+    {
+      "start_time": 438,
+      "end_time": 464,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wells analyzes the language used in the quotation to, among other things, highlight a case of segregation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "analysis"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "institutional segregation"
+        }
+      ],
+      "uuid": "f780a4c5-e47d-435e-98ea-0474f50665fc"
+    },
+    {
+      "start_time": 465,
+      "end_time": 499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A white woman makes an excuse for why a Black man was in her room at night, saving him from lynching. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "daf182ef-d40e-4aaf-b8a7-7ce6f2253307"
+    },
+    {
+      "start_time": 500,
+      "end_time": 553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Additional cases elsewhere in the South of white women or girls with Black lovers or mixed-race babies."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "consensual interracial relationship"
+        }
+      ],
+      "uuid": "14051502-25f9-4539-b552-ea3e118ba64b"
+    },
+    {
+      "start_time": 554,
+      "end_time": 601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lynching of Edward Coy in Texarcana, with list of evidence disproving the accusations against him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "extrajudicial killing"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "consensual interracial relationship"
+        }
+      ],
+      "uuid": "899bacf1-b02c-4e8b-801d-9badb6377858"
+    },
+    {
+      "start_time": 602,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "white men involved in a lynching are themselves fathers of mixed-race children"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "child/children"
+        }
+      ],
+      "uuid": "de023880-8f29-4c45-9cef-977979cfb7ea"
+    },
+    {
+      "start_time": 611,
+      "end_time": 650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the Chicago Inter Ocean calls for an inquiry into how to \"excuse injustice\"; they also propose that the white woman was \"more guilty\" than the Black man for their relationship"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "analysis"
+        }
+      ],
+      "uuid": "0893c175-f4c0-4761-9a39-ffbe3795aeb5"
+    }
+  ],
   "set": "Default",
   "event_id": "d8db8e82-dd54-4a15-b549-a943ad9a75b9",
   "source_id": "81dea0a9-9497-445f-9ef4-51cb5ffc3631"
