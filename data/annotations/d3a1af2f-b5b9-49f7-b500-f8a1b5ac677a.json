@@ -176,27 +176,6 @@
       "uuid": "899bacf1-b02c-4e8b-801d-9badb6377858"
     },
     {
-      "start_time": 602,
-      "end_time": 610,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "white men involved in a lynching are themselves fathers of mixed-race children"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "child/children"
-        }
-      ],
-      "uuid": "de023880-8f29-4c45-9cef-977979cfb7ea"
-    },
-    {
       "start_time": 611,
       "end_time": 650,
       "annotation": [
