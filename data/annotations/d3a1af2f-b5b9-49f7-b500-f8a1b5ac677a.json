@@ -155,22 +155,6 @@
       "uuid": "f780a4c5-e47d-435e-98ea-0474f50665fc"
     },
     {
-      "start_time": 465,
-      "end_time": 499,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "A white woman makes an excuse for why a Black man was in her room at night, saving him from lynching. "
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "daf182ef-d40e-4aaf-b8a7-7ce6f2253307"
-    },
-    {
       "start_time": 500,
       "end_time": 553,
       "annotation": [
