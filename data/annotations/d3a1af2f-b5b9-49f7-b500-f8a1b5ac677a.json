@@ -130,31 +130,6 @@
       "uuid": "763b6514-80f1-4826-97c8-6fad349a7b71"
     },
     {
-      "start_time": 438,
-      "end_time": 464,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Wells analyzes the language used in the quotation to, among other things, highlight a case of segregation."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "analysis"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "institutional segregation"
-        }
-      ],
-      "uuid": "f780a4c5-e47d-435e-98ea-0474f50665fc"
-    },
-    {
       "start_time": 500,
       "end_time": 553,
       "annotation": [
