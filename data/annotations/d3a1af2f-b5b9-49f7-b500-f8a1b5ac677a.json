@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 0,
-      "end_time": 28,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "introduction"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "introduction"
-        }
-      ],
-      "uuid": "873aebc1-6457-4985-a41b-3089e3a178ed"
-    },
-    {
       "start_time": 29,
       "end_time": 201,
       "annotation": [
