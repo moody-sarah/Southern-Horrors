@@ -1,39 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 279,
-      "end_time": 308,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "a white Memphis woman asserts she is Black to continue cohabiting with a Black man"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "indictment"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "acquittal"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "consensual interracial relationship"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "class"
-        }
-      ],
-      "uuid": "2ac78cf8-8e2b-466d-91c2-7fc61018c15f"
-    },
-    {
       "start_time": 309,
       "end_time": 331,
       "annotation": [
