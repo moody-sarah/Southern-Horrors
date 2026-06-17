@@ -1,39 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 106,
-      "end_time": 201,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "The accuser confesses that the relationship was consensual; the falsely convicted is freed, and the woman and husband divorce."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "confession of false accusation"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "consensual interracial relationship"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "child/children"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "divorce"
-        }
-      ],
-      "uuid": "7c2b9911-e996-4904-8361-d82bcab84259"
-    },
-    {
       "start_time": 164,
       "end_time": 173,
       "annotation": [
