@@ -1,31 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 256,
-      "end_time": 278,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "a white girl's accusation leads to acquittal in Memphis"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "false accusation of rape"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "acquittal"
-        }
-      ],
-      "uuid": "3662ac98-2902-4621-9c4e-dc1c2715c191"
-    },
-    {
       "start_time": 279,
       "end_time": 308,
       "annotation": [
