@@ -101,35 +101,6 @@
       "uuid": "5b27b84a-995c-4d7f-bcc0-aa7ce64c8889"
     },
     {
-      "start_time": 332,
-      "end_time": 437,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "quotation from The Memphis Ledger on the Lillie Bailey story. \"Coon\" is a racial slur that likely abbreviates \"raccoon.\""
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "consensual interracial relationship"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "child/children"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "quotation"
-        }
-      ],
-      "uuid": "763b6514-80f1-4826-97c8-6fad349a7b71"
-    },
-    {
       "start_time": 500,
       "end_time": 553,
       "annotation": [
