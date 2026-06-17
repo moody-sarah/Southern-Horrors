@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 164,
-      "end_time": 173,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "\"outrage\" as \"rape\" (a period usage)"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "f4218926-d9e8-45c4-a0fe-314e86625187"
-    },
-    {
       "start_time": 215,
       "end_time": 228,
       "annotation": [
