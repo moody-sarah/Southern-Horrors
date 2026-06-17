@@ -1,31 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 554,
-      "end_time": 601,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Lynching of Edward Coy in Texarcana, with list of evidence disproving the accusations against him."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "extrajudicial killing"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "consensual interracial relationship"
-        }
-      ],
-      "uuid": "899bacf1-b02c-4e8b-801d-9badb6377858"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "d8db8e82-dd54-4a15-b549-a943ad9a75b9",
   "source_id": "81dea0a9-9497-445f-9ef4-51cb5ffc3631"
