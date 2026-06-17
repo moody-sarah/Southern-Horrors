@@ -24,27 +24,6 @@
         }
       ],
       "uuid": "899bacf1-b02c-4e8b-801d-9badb6377858"
-    },
-    {
-      "start_time": 611,
-      "end_time": 650,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "the Chicago Inter Ocean calls for an inquiry into how to \"excuse injustice\"; they also propose that the white woman was \"more guilty\" than the Black man for their relationship"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "analysis"
-        }
-      ],
-      "uuid": "0893c175-f4c0-4761-9a39-ffbe3795aeb5"
     }
   ],
   "set": "Default",
