@@ -1,31 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 29,
-      "end_time": 201,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "a white woman in Ohio makes a false accusation, leading to trial and conviction of a Black man; she later confessed to her lie, after the falsely convicted had served four years; her husband secured his release and divorced the wife"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "false accusation"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "false conviction"
-        }
-      ],
-      "uuid": "18195a76-0ada-498c-933b-ae912e0e5737"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "d8db8e82-dd54-4a15-b549-a943ad9a75b9",
   "source_id": "81dea0a9-9497-445f-9ef4-51cb5ffc3631"
