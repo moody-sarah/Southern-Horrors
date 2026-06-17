@@ -1,27 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 215,
-      "end_time": 228,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Wells contrasts Northern with Southern cases of interracial sexual relationships"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "consensual interracial relationship"
-        }
-      ],
-      "uuid": "f38b48ae-afad-4ef8-84e3-f4b9aae3b262"
-    },
-    {
       "start_time": 229,
       "end_time": 255,
       "annotation": [
