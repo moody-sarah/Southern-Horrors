@@ -9,31 +9,92 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
       "children": [
         {
-          "text": "Ida Bell Wells was born into slavery in Holly Springs, Mississippi in 1862. As a young adult she attended Shaw University, Fisk University, and LeMoyne-Owen College. She became a teacher and civil rights crusader in Memphis, and her journalism appeared in "
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Face_detail%2C_from-_Ida_B._Wells_circa_1895_by_Cihak_and_Zima_%28cropped%29.jpg/500px-Face_detail%2C_from-_Ida_B._Wells_circa_1895_by_Cihak_and_Zima_%28cropped%29.jpg",
+              "caption": "Image of Ida B. Wells from Wikipedia",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         },
         {
-          "text": "The Evening Star",
-          "italic": true
-        },
-        {
-          "text": " and the "
-        },
-        {
-          "text": "Living Way",
-          "italic": true
-        },
-        {
-          "text": " under the pseudonym of Iola. Her work argued forcefully against Jim Crow restrictions. She became co-editor and co-owner of "
-        },
-        {
-          "text": "The Free Speech and Headlight ",
-          "italic": true
-        },
-        {
-          "text": "in 1891."
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This project adds annotations and tags to an audio recording of an essay by Ida B. Wells, \"Southern Horrors: Lynch Law in All its Phases.\" Wells was born into slavery in Holly Springs, Mississippi in 1862. As a young adult she attended Shaw University, Fisk University, and LeMoyne-Owen College. She became a teacher and civil rights crusader in Memphis, and her journalism appeared in "
+                },
+                {
+                  "text": "The Evening Star",
+                  "italic": true
+                },
+                {
+                  "text": " and the "
+                },
+                {
+                  "text": "Living Way",
+                  "italic": true
+                },
+                {
+                  "text": " under the pseudonym of Iola. Her work argued forcefully against Jim Crow restrictions. She became co-editor and co-owner of "
+                },
+                {
+                  "text": "The Free Speech and Headlight ",
+                  "italic": true
+                },
+                {
+                  "text": "in 1891."
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -69,22 +130,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "The essay \"Southern Horrors: Lynch Law in All its Phases\" appeared in 1892 as a speech that Wells presented in New York City. It was printed in October of that year as a pamphlet (shown below). This piece argues forcefully against lynching logic, deconstructing the "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "grid",
       "layout": [
         3,
@@ -98,7 +143,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Table of Contents"
+                  "text": ""
                 }
               ]
             },
@@ -106,7 +151,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "1.    "
+                  "text": "The essay \"Southern Horrors: Lynch Law in All its Phases\" appeared in 1892 as a speech that Wells presented in New York City. It was printed in October of that year as a pamphlet (shown below). This piece argues forcefully against lynching logic, deconstructing the excuse that Black men raped white women. It delves deeply into the complications of sexuality and law in a time and place of profound social inequality."
                 }
               ]
             },
@@ -114,7 +159,43 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "2.   "
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "A note on language",
+                  "textSize": "heading-four"
+                },
+                {
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "This project presents the period writing without modernization, meaning some terms may cause offense. When appropriate an annotation explains the meaning of terms that might not be understood."
                 }
               ]
             }
@@ -174,96 +255,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "textSize": "heading-four"
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        2,
-        4
-      ],
-      "children": [
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "image",
-              "url": "data:image/jpeg;base64,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",
-              "caption": "Portrait of Ida B. Wells",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "A note on language ",
-                  "textSize": "heading-four"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "This project presents the period writing without modernization, meaning some terms may cause offense. When appropriate an annotation explains the meaning of terms that might not be understood.",
-                  "textSize": "small"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "textSize": "small",
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "",
-                  "textSize": "small"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -277,6 +268,6 @@
   "slug": "intro",
   "created_at": "2026-06-16T18:15:48.843Z",
   "created_by": "moody-sarah",
-  "updated_at": "2026-06-18T18:45:06.909Z",
+  "updated_at": "2026-06-18T19:10:05.735Z",
   "updated_by": "moody-sarah"
 }
