@@ -93,6 +93,29 @@
                   "text": "in 1891."
                 }
               ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Three friends of Wells were lynched in March of 1892, and Wells responded by encourage African Americans to leave Memphis. She also began investigating lynchings across the US South. In May, a mob attacked and burned the press of "
+                },
+                {
+                  "text": "The Free Speech and Headlight",
+                  "italic": true
+                },
+                {
+                  "text": ", following critique by a white Memphis newspaper. Away on vacation, she chose not to return to Memphis, where she would certainly have faced vigilante reprisals for her work. "
+                }
+              ]
             }
           ]
         }
@@ -107,17 +130,10 @@
       ]
     },
     {
-      "type": "paragraph",
+      "type": "horizontal-separator",
       "children": [
         {
-          "text": "Three friends of Wells were lynched in March of 1892, and Wells responded by encourage African Americans to leave Memphis. She also began investigating lynchings across the US South. In May, a mob attacked and burned the press of "
-        },
-        {
-          "text": "The Free Speech and Headlight",
-          "italic": true
-        },
-        {
-          "text": ", following critique by a white Memphis newspaper. Away on vacation, she chose not to return to Memphis, where she would certainly have faced vigilante reprisals for her work. "
+          "text": ""
         }
       ]
     },
@@ -268,6 +284,6 @@
   "slug": "intro",
   "created_at": "2026-06-16T18:15:48.843Z",
   "created_by": "moody-sarah",
-  "updated_at": "2026-06-18T19:10:05.735Z",
+  "updated_at": "2026-06-18T19:54:58.743Z",
   "updated_by": "moody-sarah"
 }
