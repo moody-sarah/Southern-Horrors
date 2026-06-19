@@ -1,1 +1,211 @@
-{"annotations":[],"set":"Default","event_id":"047e7506-a73b-4185-9291-220126c70642","source_id":"b013e065-7d15-4223-a7b2-ed239d22d321"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "introduction"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "metarecording",
+          "category": "metarecording"
+        }
+      ],
+      "uuid": "781ab818-165e-4c50-a5f6-3a36d8b41883"
+    },
+    {
+      "start_time": 1800,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An editorial in the Free Speech sparks outcry and a meeting in the Cotton Exchange Building"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Memphis",
+          "category": "recurring places"
+        }
+      ],
+      "uuid": "e0b5475f-5877-4959-b8c2-2ae04424c241"
+    },
+    {
+      "start_time": 67,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "quotation from the editorial in the Free Speech, summarizing eight lynchings in one week"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "law enforcement and courts",
+          "tag": "lynching"
+        },
+        {
+          "tag": "analysis",
+          "category": "analysis"
+        },
+        {
+          "tag": "white impunity",
+          "category": "law enforcement and courts"
+        }
+      ],
+      "uuid": "4fa60ba3-42ff-43fa-8176-a4bdf62b3830"
+    },
+    {
+      "start_time": 120,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wells quotes The Daily Commercial's threatening response"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "law enforcement and courts",
+          "tag": "lynching"
+        },
+        {
+          "tag": "analysis",
+          "category": "analysis"
+        },
+        {
+          "tag": "white impunity",
+          "category": "law enforcement and courts"
+        }
+      ],
+      "uuid": "83378f5c-77ca-4ce9-9ebd-7fa62f16a2c8"
+    },
+    {
+      "start_time": 201,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wells quotes the response from The Evening Scimitar, extending the threat from The Daily Commercial"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "law enforcement and courts",
+          "tag": "lynching"
+        },
+        {
+          "tag": "white impunity",
+          "category": "law enforcement and courts"
+        }
+      ],
+      "uuid": "0383a1be-20b6-442f-bb29-74c9b33c6621"
+    },
+    {
+      "start_time": 235,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The meeting of leading businessmen at the Cotton Exchange Building. Wells in New York receives threats. The Free Speech is shut down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "law enforcement and courts",
+          "tag": "lynching"
+        },
+        {
+          "tag": "Memphis",
+          "category": "recurring places"
+        }
+      ],
+      "uuid": "4d067387-1c76-40aa-8407-f949c68c010e"
+    },
+    {
+      "start_time": 280,
+      "end_time": 335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wells proposes that freedom and education can be more brutalizing than slavery. She reveals that she authored the initial editorial in the Free Speech."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "analysis",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "e99f45de-368d-479e-8c38-af4b25628753"
+    },
+    {
+      "start_time": 336,
+      "end_time": 434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "JC Duke in the Montgomery Herald asked why white women like Black men more than they used to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "consensual interracial relationship",
+          "category": "human relationships"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "African American female as victim"
+        },
+        {
+          "tag": "white impunity",
+          "category": "law enforcement and courts"
+        },
+        {
+          "tag": "analysis",
+          "category": "analysis"
+        }
+      ],
+      "uuid": "5d58651c-e8c5-4ae2-ad5b-fef12b59a90c"
+    }
+  ],
+  "set": "Default",
+  "event_id": "047e7506-a73b-4185-9291-220126c70642",
+  "source_id": "b013e065-7d15-4223-a7b2-ed239d22d321"
+}
